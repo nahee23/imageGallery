@@ -27,8 +27,8 @@ h1 {
   gap: 15px;
   max-width: 85%;
   margin: 40px 0;
-  columns: 3 310px;
-  /*이미지를 3줄로 각 310px로 설정*/
+  columns: 4 310px;
+  /*이미지를 4줄로 각 310px로 설정*/
   list-style: none;
 }
 
