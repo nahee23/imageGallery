@@ -8,6 +8,7 @@
   - CSS 외부 링크
   - 특수 효과 (●'◡'●)
 - 🎶Git으로 관리
+- 🐱‍🚀Git Hub페이지 사용해서 배포(Deploy)함
 
-구글링크
-[Google](http://google.com)
+이미지 갤러리 링크
+[배포](https://nahee23.github.io/imageGallery/)
